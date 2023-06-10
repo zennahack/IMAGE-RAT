@@ -13,7 +13,7 @@
 You can control andeoid mobile send image (jpg, png), 
 Image Rat Support android 13
 ## demo video
-https://youtu.be/OyJQrygTcjM
+https://telegram.me/c/1107798810/161
 ## telegram
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://telegram.me/prorat370)
 # payment methods 
